@@ -14,7 +14,7 @@ function MovieItem(props) {
                 </div>
             </Accordion.Toggle>
             <Accordion.Collapse eventKey={props.eventKey}>
-                <Card.Body>Hello! I'm the body</Card.Body>
+                <Card.Body>Description</Card.Body>
             </Accordion.Collapse>
         </Card>
     )
