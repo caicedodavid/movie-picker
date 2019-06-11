@@ -1,0 +1,11 @@
+.movie-item img {
+    height: 100px;
+}
+
+.movie-item .movie-title {
+    max-width: 84%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 8px;
+    padding-left: 20px;
+}
